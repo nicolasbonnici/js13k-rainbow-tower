@@ -31,4 +31,6 @@ rises — but touch it once and the run is over.
 Fake‑3D cylinder                       
 - **All procedural**
 - **Gamepad support**        
-- **Mobile and tablet support**                          
+- **Mobile and tablet support**
+
+More here on my blog: https://nbonnici.info/en/blog/js13k-2026-rainbow-tower/                   
